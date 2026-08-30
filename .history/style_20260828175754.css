@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: green;
+    color: black;
+    height: 5rem;
+    
+}

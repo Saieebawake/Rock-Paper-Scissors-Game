@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    background-color: green;
+    color: black;
+    height: 5rem;
+    line-height: 5rem;
+}
+
+.choice {
+    height: 100px;
+    width: 200px;
+}
